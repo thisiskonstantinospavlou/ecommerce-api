@@ -19,12 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Abstractions", "src\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{78BF3FF5-A360-4BD1-8303-9A99D7808B5A}"
 	ProjectSection(SolutionItems) = preProject
+		FunBooksAndVideos-db.png = FunBooksAndVideos-db.png
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Service.Tests", "tests\Api.Service.Tests\Api.Service.Tests.csproj", "{9773D848-C4BA-48DC-8AD1-3D61BEE35D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Service.Tests", "tests\Api.Service.Tests\Api.Service.Tests.csproj", "{9773D848-C4BA-48DC-8AD1-3D61BEE35D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Logic.Tests", "tests\Domain.Logic.Tests\Domain.Logic.Tests.csproj", "{29DD00D0-841D-4525-9271-C4E1746FEAE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Logic.Tests", "tests\Domain.Logic.Tests\Domain.Logic.Tests.csproj", "{29DD00D0-841D-4525-9271-C4E1746FEAE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

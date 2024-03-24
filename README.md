@@ -1,6 +1,7 @@
 # Solution
 * This is a solution for the FunBooksAndVideos e-commerce shop. This solution is by far not ready for production, however it tries to follow closely to requirements set.
 * The solution runs in .NET 8 with Entity Framework - SQLite, NUnit and Moq.
+* A high level design of the database created can be found [here](./FunBooksAndVideos-db.png).
 * The solution has been tested and can run for happy paths, when Visual Studio runs as an Administration due to the creation of an SQLite database in C:.
 * This solution has been created within a weekend and therefore it was time restricted.
 
